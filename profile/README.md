@@ -1,12 +1,17 @@
-## Hi there 👋
+# 🌌 Mirai MC
 
-<!--
+基于 **26.3 Lophine** 服务端运行的 Minecraft 服务器。
 
-**Here are some ideas to get you started:**
+本组织仅用于存储和维护本服务器所使用的资源：
+- **服务器主页**：服务器官方网站及相关前端页面。
+- **插件项目**：基于社区现有开源插件，针对 26.3 Lophine 环境及本服需求进行重构与定制的二次开发版本。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## ⚖️ 开源致谢与说明
+
+重构插件均遵循原项目的开源许可证协议，保留原作者版权声明及原始仓库信息。重构主要用于适配 26.3 Lophine 环境、修复缺陷及定制服务器所需功能，感谢原作者及开源社区的贡献。
+
+---
+
+- **服务器主页**：*mc.missdrop.cn*
